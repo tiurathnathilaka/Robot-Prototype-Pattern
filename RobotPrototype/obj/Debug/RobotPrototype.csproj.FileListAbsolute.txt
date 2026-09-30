@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\RobotPrototype\RobotPrototype\bin\Debug\RobotPrototype.exe.config
+C:\Users\ASUS\source\repos\RobotPrototype\RobotPrototype\bin\Debug\RobotPrototype.exe
+C:\Users\ASUS\source\repos\RobotPrototype\RobotPrototype\bin\Debug\RobotPrototype.pdb
+C:\Users\ASUS\source\repos\RobotPrototype\RobotPrototype\obj\Debug\RobotPrototype.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RobotPrototype\RobotPrototype\obj\Debug\RobotPrototype.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RobotPrototype\RobotPrototype\obj\Debug\RobotPrototype.exe
+C:\Users\ASUS\source\repos\RobotPrototype\RobotPrototype\obj\Debug\RobotPrototype.pdb
